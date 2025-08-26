@@ -1,0 +1,125 @@
+.autocomplete .container_autocomplete {
+    width: 328px;
+    position: relative;
+}
+.autocomplete .container_input {
+    width: 100%;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    background-color: white;
+    transition: .3s;
+}
+.autocomplete .input_disabled {
+    background-color: rgb(245, 245, 245) !important;
+}
+.autocomplete .container_input label {
+    position: absolute;
+    left: 12px;
+    font-weight: 400;
+    transition: .3s;
+    top: 14px;
+    font-size: 14px;
+}
+.autocomplete .container_input .label_active {
+    font-size: 10px;
+    top: 0;
+}
+.autocomplete .container_input input {
+    width: 100%;
+    height: 100%;
+    padding: 14px 12px;
+    font-size: 15px;
+    font-weight: 500;
+    outline: none;
+    border: none;
+    color: #23282D;
+    position: relative;
+    z-index: inherit;
+    background-color: #00000000;
+    cursor: pointer;
+}
+.autocomplete .container_input i {
+    position: absolute;
+    right: 15px;
+    color: rgb(199, 199, 199);
+    font-size: 18px;
+    z-index: inherit;
+}
+.autocomplete .container_input img {
+    width: 50px;
+    position: absolute;
+    right: 20px;
+    z-index: 1;
+}
+.autocomplete .container_popover {
+    width: 100%;
+    max-height: 358px;
+    position: absolute;
+    top: 56px;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: white;
+    padding: 0 6px;
+    box-shadow: 0px 20px 60px -4px #10182829;
+    z-index: 1;
+    transition: all .3s;
+}
+.autocomplete .container_popover_active {
+    max-height: 0;
+    padding: 0;
+}
+.autocomplete .container_popover_items {
+    width: 100%;
+    max-height: 358px;
+    overflow: auto;
+    padding: 2px 4px;
+}
+.autocomplete .container_popover_items::-webkit-scrollbar {
+    width: 4px;
+}
+.autocomplete .container_popover_items::-webkit-scrollbar-thumb {
+    height: 50px;
+    background: #D0D5DD;
+    border-radius: 100px;
+}
+.autocomplete .errItem {
+    text-align: center;
+    background-color: #f3f4f6;
+    padding: 8px 0;
+    border-radius: 6px;
+    color: gray;
+    cursor: default;
+}
+.autocomplete .item {
+    height: 38px;
+    padding: 8px 6px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    color: #6D7586;
+    font-size: 15px;
+    font-weight: 400;
+    transition: .3s;
+}
+.autocomplete .item:hover {
+    background-color: #F6F8F9;
+    color: #23282D;
+}
+.autocomplete .itemActive {
+    background-color: #efeff0;
+    color: #23282D;
+}
+.autocomplete .item span {
+    font-size: 12px;
+    color: rgb(202, 202, 202);
+    cursor: default;
+}   
+.autocomplete .item span img{
+    width: 30px;
+}

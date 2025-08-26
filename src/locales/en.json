@@ -1,0 +1,112 @@
+{
+    "home": {
+        "title": "Home",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam earum porro sit eos quisquam ex esse possimus harum expedita obcaecati quo molestias, omnis vel? Tenetur dolores quas cum ut adipisci. Consequatur deleniti, nemo totam doloremque omnis ex illo maiores tempora molestiae itaque a aliquid minima quasi, labore non aperiam. Beatae illo quia aut nisi officiis harum voluptatem nobis iure reprehenderit! Commodi, eum eaque et id laudantium aperiam consequuntur repellendus, exercitationem iusto est enim, quae harum? Tempora ratione itaque qui impedit quaerat repellat dolores eos animi minus, magni reiciendis omnis optio? Exercitationem nesciunt consequatur architecto, minima molestiae labore recusandae et alias numquam inventore nulla ducimus quaerat accusantium ipsa officia adipisci nobis? Quibusdam excepturi minus corrupti quos id, fuga ex unde error. Nam quas autem, molestias impedit est ducimus ipsum reprehenderit in necessitatibus? Amet ullam molestias, dolorum voluptatem corporis ducimus unde sint voluptate odio, ipsam sequi vitae architecto facere corrupti doloribus nobis."
+    },
+    "settings": {
+        "title": "Setting",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, quae, accusantium nostrum ab error commodi pariatur corrupti cumque adipisci praesentium molestiae fuga rem. Ipsum provident nostrum saepe rem tempore sequi? Nobis, totam quaerat commodi consectetur beatae numquam culpa quibusdam ratione eius rerum laboriosam! Veritatis, quos ratione odit provident id similique voluptate omnis, veniam dolorem natus rerum ipsa quo reiciendis voluptatum. Vero at et repellendus sint, ipsa aliquam qui ad porro aut praesentium quibusdam dignissimos harum autem eligendi rem maiores atque, fuga quia culpa molestiae dolore. Eaque aliquid tempora ratione corporis. Voluptatum sit culpa perferendis quasi qui laboriosam praesentium consectetur dolor nostrum nulla distinctio excepturi quod earum ipsam ducimus cumque maiores adipisci dolorem repellendus consequatur harum error velit, eligendi doloremque? Deserunt! Deserunt rerum obcaecati dolorum ea pariatur atque, labore tenetur eum sit error est, vitae optio ipsam non hic quo quae voluptatum ipsum exercitationem placeat quaerat! Dignissimos illum adipisci tempora voluptatibus."
+    },
+    "profile": {
+        "title": "Profile",
+        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem laudantium quaerat error. Laborum, eum quae. Pariatur natus, illo doloribus sed facere exercitationem deserunt quisquam dicta ex. Libero harum aut et! At quos quibusdam aliquid nisi, harum nesciunt odit porro voluptas excepturi consequuntur delectus quo dolor hic officia laudantium dolorum sed ratione exercitationem, id adipisci error! Reiciendis hic iure eum fugit. Eum, ea. Ipsa excepturi recusandae neque doloremque et quisquam eaque, sed assumenda pariatur sit iure expedita debitis numquam quod repudiandae harum earum maxime magni. Minima ipsum reiciendis expedita recusandae et.",
+        "users": {
+            "title": "Users",
+            "fname": "Firstname",
+            "lname": "Lastname",
+            "age": "Age",
+            "dob": "Date of birth"
+        },
+        "about": {
+            "title": "About",
+            "text1": "My full name is",
+            "text2": ". I am a",
+            "text3": "developer, my hobby is",
+            "job": "Frontend",
+            "hobby": "playing online games",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus eaque ipsum laborum mollitia aperiam excepturi eum rem ab cumque debitis voluptatum provident, saepe omnis et eligendi magni. Doloremque, atque odio. Repellendus repellat nam necessitatibus ut asperiores voluptates consequatur reprehenderit, dignissimos earum, expedita reiciendis! Expedita numquam eum animi, odio repellendus obcaecati facere illum voluptates, ab sit temporibus sequi placeat consectetur minus! Quaerat nulla velit quod magni possimus iusto nisi vero impedit sit, atque illo hic ipsam dignissimos ab doloremque voluptatibus, tenetur enim veniam? Dolores est in, corrupti aliquam dolore porro laborum. Eius molestiae optio labore, aperiam est debitis alias! Nostrum, maiores placeat itaque error numquam, iste reprehenderit nam, mollitia commodi ipsa harum! In quia optio adipisci eveniet perspiciatis aliquam ea deleniti? Neque, voluptatum sunt. Dicta nulla magnam vel optio reiciendis inventore delectus. Quod, repellendus eveniet veniam aliquid harum, earum quo architecto voluptatibus maiores in nostrum fuga esse illo possimus sunt? Aliquam."
+        },
+        "contact": {
+            "title": "Contact",
+            "network": "My social network profiles",
+            "add": {
+                "title": "Additionally",
+                "email": "Email",
+                "tell": "My tell"
+            }
+        }
+    },
+    "projectxt": "Project",
+    "project1": {
+        "title": "Passenger choice",
+        "text1": "Adults",
+        "text2": "Children",
+        "text3": "Babies",
+        "text4": "Total number of passengers",
+        "btn": "General"
+    },
+    "project2": {
+        "title": "Product filter",
+        "text1": "Categories",
+        "text2": "Price",
+        "text3": "Enter the name of your product",
+        "all": "All",
+        "notebook": "Notebook",
+        "pc": "PC",
+        "smartphone": "Smartphone",
+        "airpods": "Airpods",
+        "keyboard": "Keyboard",
+        "btn": "Apply",
+        "to": "to",
+        "from": "from"
+    },
+    "project3": {
+        "title": "Modal Window"
+    },
+    "project4": {
+        "title": "Countdown",
+        "start": "start",
+        "stop": "stop",
+        "reset": "reset"
+    },
+    "project5": {
+        "title": "Community"
+    },
+    "project6": {
+        "title": "Create Cards",
+        "text1": "Planned",
+        "text2": "In progress",
+        "text3": "Abandoned",
+        "text4": "I do",
+        "text5": "Create a case",
+        "inptxt": "Work name",
+        "textarea": "description",
+        "btn": "clear"
+    },
+    "project7": {
+        "title": "Tic Tac Toe",
+        "btn": "Restart",
+        "text1": "Draw",
+        "text2": "Winner"
+    },
+    "project8": {
+        "title": "Animation",
+        "btn": "Click"
+    },
+    "project9": {
+        "title": "Upload images",
+        "btn1": "Clear",
+        "btn2": "Pruning",
+        "btn3": "Trim",
+        "btn4": "Upload",
+        "btn5": "Cancel",
+        "text1": "name",
+        "text2": "Width",
+        "text3": "Height",
+        "text4": "Size"
+    },
+    "project10": {
+        "title": "Short video",
+        "btn": "Start watching"
+    }
+}

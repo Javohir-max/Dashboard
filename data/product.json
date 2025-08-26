@@ -1,0 +1,327 @@
+[{
+        "id": 1,
+        "name": "Ноутбук Lenovo V15, Celeron N4500, DDR4 4GB/ SSD 256GB, 15.6 FHD + Windows и программы",
+        "price": 2889630,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cr07jp7iraat934poi50/original.jpg",
+        "images": [
+            "https://images.uzum.uz/cr07jp7iraat934poi50/original.jpg",
+            "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg",
+            "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg",
+            "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg",
+            "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "HP 245-G7 AMD Athlon 3050U/4GB/500GB + Windows10 + Мышка",
+        "price": 2715030,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cr872afiraat934rite0/original.jpg",
+        "images": ["https://images.uzum.uz/cr872afiraat934rite0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 3,
+        "name": "Ноутбук Huawei MateBook D 14, 2024",
+        "price": 5620180,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cph9dormdtjnp738m1j0/original.jpg",
+        "images": ["https://images.uzum.uz/cph9dormdtjnp738m1j0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 4,
+        "name": "Ноутбук HP 250 G10 Core i5-1334U, DDR4 8ГБ, SSD 512ГБ, 15.6 FHD, Windows + беспроводная мышь",
+        "price": 6207030,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cr3icimsbq7g1s9abqc0/original.jpg",
+        "images": ["https://images.uzum.uz/cr3icimsbq7g1s9abqc0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 5,
+        "name": "Ноутбук игровой Lenovo LOQ, Intel i5-12450HX, RTX3050/2050, 12GB DDR5, 512GB SSD, 144Hz",
+        "price": 8928850,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cr49b0niraat934qmij0/original.jpg",
+        "images": ["https://images.uzum.uz/cr49b0niraat934qmij0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 6,
+        "name": "Игровой ноутбук ACER Nitro 5, Intel Core i9-12900H, DDR4 16ГБ, SSD 512ГБ, RTX 4060, FHD",
+        "price": 17383370,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cqoc9hnfrr8a72r76nv0/original.jpg",
+        "images": ["https://images.uzum.uz/cqoc9hnfrr8a72r76nv0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 7,
+        "name": "Ноутбук Lenovo ideaPad 5, Intel Core I7-1255U, 16GB DDR4, 512GB SSD, MX550",
+        "price": 9834830,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cqobuj7frr8a72r76ji0/original.jpg",
+        "images": ["https://images.uzum.uz/cqobuj7frr8a72r76ji0/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 8,
+        "name": "Ноутбук Dell Vostro, i7-1165G7, 16 ГБ DDR4 / HDD 1ТБ + 256ГБ SSD, GeForce MX350 2ГБ, 15.6",
+        "price": 9381840,
+        "category": "notebook",
+        "img_url": "https://images.uzum.uz/cqu9ff6sbq7g1s994s4g/original.jpg",
+        "images": ["https://images.uzum.uz/cqu9ff6sbq7g1s994s4g/original.jpg", "https://images.uzum.uz/crkqkm9bjcvd8a775upg/original.jpg", "https://images.uzum.uz/crkqkm1bjcvd8a775up0/original.jpg", "https://images.uzum.uz/crkqkm43t0q1s5n41r10/original.jpg", "https://images.uzum.uz/crkqkmajot51rkb1nns0/original.jpg"]
+    },
+    {
+        "id": 9,
+        "name": "Готовый офисный компьютер / Core i7-5-3, 8 ГБ ОЗУ,512 SSD, Windows 10 Pro",
+        "price": 1692650,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cro5mashug2lhico0dsg/original.jpg",
+        "images": ["https://images.uzum.uz/cro5mashug2lhico0dsg/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 10,
+        "name": "Игровой ПК / i5 4440 / Озу 16 ГБ / SSD 512 / Видеокарта RX 580 8 ГБ / Монитор 24",
+        "price": 5325300,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cpjha37frr82f0a6ae00/original.jpg",
+        "images": ["https://images.uzum.uz/cpjha37frr82f0a6ae00/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 11,
+        "name": "Игровой и монтажный компьютер Трансформеры Core i5-12400f/16ГБ DDR4/Rx 580-видеокарта 8 ГБ",
+        "price": 6780300,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cres6tfs09cvvbjr3e8g/original.jpg",
+        "images": ["https://images.uzum.uz/cres6tfs09cvvbjr3e8g/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 12,
+        "name": "Игровой ПК с RGB кейс, intel Core i5-12400F, 1660 Super 6 ГБ, 16 DDR4 3200 MГц, 512 ГБ M2",
+        "price": 7750300,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cprt7vj6eisq2rkd8e30/original.jpg",
+        "images": ["https://images.uzum.uz/cprt7vj6eisq2rkd8e30/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 13,
+        "name": "Компьютер игровой Transformers Intel Core i5-12400f / 16 Гб DDR4 / Rx580-8GB video carta",
+        "price": 8725150,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cm6unhrifoubkc6mh7eg/original.jpg",
+        "images": ["https://images.uzum.uz/cm6unhrifoubkc6mh7eg/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 14,
+        "name": "Системный блок 'MyPRO' Intel Core i3 - 12100f / 16 ГБ DDR4 / Rx580 - 8 ГБ video card",
+        "price": 6300150,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cqlp32kqvsse8leu5aog/original.jpg",
+        "images": ["https://images.uzum.uz/cqlp32kqvsse8leu5aog/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 15,
+        "name": "Компьютер игровой Zalman-Mypro Intel Core i5-12400f / 32 Гб DDR4 / 3070 Trio",
+        "price": 13575150,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cknfbfsvutv6ra7dnc10/original.jpg",
+        "images": ["https://images.uzum.uz/cknfbfsvutv6ra7dnc10/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 16,
+        "name": "Компьютер игровой Deepcool Macube 110 Intel Core i5-12400f, 32 ГБ DDR4, 3070 Trio",
+        "price": 14060150,
+        "category": "pc",
+        "img_url": "https://images.uzum.uz/cm819brifoubkc6ml3o0/original.jpg",
+        "images": ["https://images.uzum.uz/cm819brifoubkc6ml3o0/original.jpg", "https://images.uzum.uz/cm6un13ifoubkc6mh7cg/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpv9g/original.jpg", "https://images.uzum.uz/cm6unhp25ku1lubqm0b0/original.jpg", "https://images.uzum.uz/cm81a6925ku1lubqpvag/original.jpg"]
+    },
+    {
+        "id": 17,
+        "name": "Смартфон Xiaomi Redmi 13, 6 / 8ГБ + 128ГБ / 8ГБ + 256ГБ, 6.79' 90Гц, 5030 мA/ч, Dual SIM, 4G LTE",
+        "price": 2401720,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/crjuusk3t0q1s5n3q770/original.jpg",
+        "images": ["https://images.uzum.uz/crjuusk3t0q1s5n3q770/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 18,
+        "name": "Смартфон Ajib I1 4/64 ГБ + чехол и защитное стекло",
+        "price": 872030,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/cqobfcsqvsse8leula9g/original.jpg",
+        "images": ["https://images.uzum.uz/cqobfcsqvsse8leula9g/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 19,
+        "name": "Смартфон ZTE Blade A55, 4/64, 4/128 ГБ, 90HZ, 5000 mA/h, Android U",
+        "price": 1260030,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/crd98242gps3jqbfb770/original.jpg",
+        "images": ["https://images.uzum.uz/crd98242gps3jqbfb770/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 20,
+        "name": "Смартфон POCO X6 Pro 5G, 8 ГБ+256 ГБ, 120Гц, 5000 мA/ч, 67Вт турбо зарядка",
+        "price": 4457150,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/crdun9u0t1lqb8aqinm0/original.jpg",
+        "images": ["https://images.uzum.uz/crdun9u0t1lqb8aqinm0/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 21,
+        "name": "Смартфон Apple iPhone 11, 64/128 ГБ, SIM+eSIM, чехол в подарок!",
+        "price": 5625030,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/cprb27gsarnfdo98uk8g/original.jpg",
+        "images": ["https://images.uzum.uz/cprb27gsarnfdo98uk8g/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 22,
+        "name": "Смартфон Samsung Galaxy A55 5G, 50 Мп, AMOLED, селфи камера 32 Мп",
+        "price": 4840300,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/cr2nt67iraat934q93m0/original.jpg",
+        "images": ["https://images.uzum.uz/cr2nt67iraat934q93m0/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 23,
+        "name": "Смартфон Samsung Galaxy S24 Ultra 12/256 ГБ, Snapdragon 8 Gen 3",
+        "price": 13561570,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/crav5n60t1lqb8aptp5g/original.jpg",
+        "images": ["https://images.uzum.uz/crav5n60t1lqb8aptp5g/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 24,
+        "name": "IPhone 15 Pro/ProMax, 128/256 ГБ, SIM+eSIM, чехол в подарок",
+        "price": 14743030,
+        "category": "smartphone",
+        "img_url": "https://images.uzum.uz/cnhjhudbl7rtgkb8mrlg/original.jpg",
+        "images": ["https://images.uzum.uz/cnhjhudbl7rtgkb8mrlg/original.jpg", "https://images.uzum.uz/crauldu0t1lqb8aptmbg/original.jpg", "https://images.uzum.uz/craulds2gps3jqbes2rg/original.jpg", "https://images.uzum.uz/craum9m0t1lqb8aptmog/original.jpg", "https://images.uzum.uz/crauldvs09cvvbjq6v70/original.jpg"]
+    },
+    {
+        "id": 25,
+        "name": "Наушники беспроводные Pods 3 Premium, для iPhone и Android, сенсорные",
+        "price": 154230,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cqbnitkqvss6ad8ie6e0/original.jpg",
+        "images": ["https://images.uzum.uz/cqbnitkqvss6ad8ie6e0/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 26,
+        "name": "Беспроводные наушники Pods Pro 2 Dubai, c беспроводной зарядкой, черные, матовые",
+        "price": 533500,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/chafs38bv8as0acr7qeg/original.jpg",
+        "images": ["https://images.uzum.uz/chafs38bv8as0acr7qeg/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 27,
+        "name": "Беспроводные наушники Pro",
+        "price": 48500,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cq6f54r5qt1gj8delqg0/original.jpg",
+        "images": ["https://images.uzum.uz/cq6f54r5qt1gj8delqg0/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 28,
+        "name": "Наушники беспроводные Pods PRO 2 с экраном, шумоподавлением, микрофоном для iOS/Android",
+        "price": 550000,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cqriraksslomdvnkbti0/original.jpg",
+        "images": ["https://images.uzum.uz/cqriraksslomdvnkbti0/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 29,
+        "name": "Беспроводные наушники Apple AirPods 3",
+        "price": 2114600,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cqqulufiraatfg8auv50/original.jpg",
+        "images": ["https://images.uzum.uz/cqqulufiraatfg8auv50/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 30,
+        "name": "Беспроводные наушники Galaxy Buds 3 Pro, Hi-Fi звук, Blade Lights, Galaxy AI, IP57",
+        "price": 2715030,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cre4k0ns09cvvbjqu55g/original.jpg",
+        "images": ["https://images.uzum.uz/cre4k0ns09cvvbjqu55g/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 31,
+        "name": "Беспроводные наушники Xiaomi Buds 3T Pro, работа до 6 часов, функция шумоподавления",
+        "price": 1361880,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cr7buo6sbq7g1s9b7g9g/original.jpg",
+        "images": ["https://images.uzum.uz/cr7buo6sbq7g1s9b7g9g/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 32,
+        "name": "Беспроводные наушники Xiaomi Buds 5, активное шумоподавление, до 39 часов воспроизведения",
+        "price": 1502530,
+        "category": "airpods",
+        "img_url": "https://images.uzum.uz/cri0b9vs09cvvbjrs5f0/original.jpg",
+        "images": ["https://images.uzum.uz/cri0b9vs09cvvbjrs5f0/original.jpg", "https://images.uzum.uz/cqqq4tviraatfg8at5gg/original.jpg", "https://images.uzum.uz/cqqq51niraatfg8at5j0/original.jpg", "https://images.uzum.uz/cqqq53csslomdvnk5vm0/original.jpg", "https://images.uzum.uz/cqqq55ksslomdvnk5vng/original.jpg"]
+    },
+    {
+        "id": 33,
+        "name": "Клавиатура НР HSA-P010K Black",
+        "price": 291000,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cof53tkmlbffilasuq1g/original.jpg",
+        "images": ["https://images.uzum.uz/cof53tkmlbffilasuq1g/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 34,
+        "name": "E-YOOSO K640 клавиатура с RGB-подсветкой, 104 бесшумных клавиши",
+        "price": 251230,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/clpjdod6sfhsc0unqov0/original.jpg",
+        "images": ["https://images.uzum.uz/clpjdod6sfhsc0unqov0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 35,
+        "name": "Беспроводной комплект клавиатуры и мыши Defender Milan C-992 1000 dpi, Usb, белый",
+        "price": 228920,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cra1iec2gps3jqbemf4g/original.jpg",
+        "images": ["https://images.uzum.uz/cra1iec2gps3jqbemf4g/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 36,
+        "name": "Клавиатура механическая с подсветкой HP K 500Y USB",
+        "price": 315250,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/ck1ut8kjvf2qegt3mav0/original.jpg",
+        "images": ["https://images.uzum.uz/ck1ut8kjvf2qegt3mav0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 37,
+        "name": "Механическая клавиатура Zifrend ZA981",
+        "price": 315250,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cod43ga1om4pepdvoi50/original.jpg",
+        "images": ["https://images.uzum.uz/cod43ga1om4pepdvoi50/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 38,
+        "name": "Механическая клавиатура Bloody S98 Naraka RGB",
+        "price": 1013650,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cgv9bnb57mg9720ffdeg/original.jpg",
+        "images": ["https://images.uzum.uz/cgv9bnb57mg9720ffdeg/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 39,
+        "name": "Razer Blackwidow X Tenkeyless Tournament Edition, 1000 Hz,87клавиш, механическая клавиатура",
+        "price": 1115500,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cp2tba40u44tu6dpre4g/original.jpg",
+        "images": ["https://images.uzum.uz/cp2tba40u44tu6dpre4g/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    },
+    {
+        "id": 40,
+        "name": "Беспроводная механическая клавиатура Logitech POP Keys",
+        "price": 1998782,
+        "category": "keyboard",
+        "img_url": "https://images.uzum.uz/cj1k4275d7kom1tkq4jg/original.jpg",
+        "images": ["https://images.uzum.uz/cj1k4275d7kom1tkq4jg/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gu0/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikjvf2iqscb9gug/original.jpg", "https://images.uzum.uz/ckn64ikvutv6ra7dkim0/original.jpg"]
+    }
+]

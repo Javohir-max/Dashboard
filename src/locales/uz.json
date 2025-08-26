@@ -1,0 +1,108 @@
+{
+    "home": {
+        "title": "Bosh sahifa",
+        "text": "Ilovamizga xush kelibsiz! Bu yerda siz samarali ishlash va qulay dam olish uchun zarur bo‘lgan barcha imkoniyatlarni topasiz. Bizning asosiy maqsadimiz – hayotingizni soddalashtiruvchi va osonlashtiruvchi texnologik echimlarni yaratishdir. Har bir bo‘lim foydalanuvchi ehtiyojlariga moslab ishlab chiqilgan bo‘lib, sizga qulay interfeys va intuitiv boshqaruvni taqdim etadi. Jamoamiz mahsulotni doimiy yangilab boradi, shuning uchun siz eng so‘nggi funksiyalardan foydalana olasiz. Agar qandaydir muammo yuzaga kelsa, texnik yordam xizmati sizga har doim yordam berishga tayyor. Ilovamizni doimiy ravishda yangilab boring va barcha yangi imkoniyatlardan foydalaning. Biz bilan birga bo‘lganingiz uchun tashakkur!"
+    },
+    "settings": {
+        "title": "Sozlamalar",
+        "text": "Ilovamizga xush kelibsiz! Bu yerda siz samarali ishlash va qulay dam olish uchun zarur bo‘lgan barcha imkoniyatlarni topasiz. Bizning asosiy maqsadimiz – hayotingizni soddalashtiruvchi va osonlashtiruvchi texnologik echimlarni yaratishdir. Har bir bo‘lim foydalanuvchi ehtiyojlariga moslab ishlab chiqilgan bo‘lib, sizga qulay interfeys va intuitiv boshqaruvni taqdim etadi. Jamoamiz mahsulotni doimiy yangilab boradi, shuning uchun siz eng so‘nggi funksiyalardan foydalana olasiz. Agar qandaydir muammo yuzaga kelsa, texnik yordam xizmati sizga har doim yordam berishga tayyor. Ilovamizni doimiy ravishda yangilab boring va barcha yangi imkoniyatlardan foydalaning. Biz bilan birga bo‘lganingiz uchun tashakkur!"
+    },
+    "profile": {
+        "title": "Profil",
+        "text": "Ilovamizga xush kelibsiz! Bu yerda siz samarali ishlash va qulay dam olish uchun zarur bo‘lgan barcha imkoniyatlarni topasiz. Bizning asosiy maqsadimiz – hayotingizni soddalashtiruvchi va osonlashtiruvchi texnologik echimlarni yaratishdir. Har bir bo‘lim foydalanuvchi ehtiyojlariga moslab ishlab chiqilgan bo‘lib, sizga qulay interfeys va intuitiv boshqaruvni taqdim etadi. Jamoamiz mahsulotni doimiy yangilab boradi, shuning uchun siz eng so‘nggi funksiyalardan foydalana olasiz. Agar qandaydir muammo yuzaga kelsa, texnik yordam xizmati sizga har doim yordam berishga tayyor. Ilovamizni doimiy ravishda yangilab boring va barcha yangi imkoniyatlardan foydalaning. Biz bilan birga bo‘lganingiz uchun tashakkur!",
+        "users": {
+            "title": "Foydalanuvchilar",
+            "fname": "Ism",
+            "lname": "Familiya",
+            "age": "Yosh",
+            "dob": "Tug‘ilgan sana"
+        },
+        "about": {
+            "title": "Haqida",
+            "text1": "To‘liq ismim",
+            "text2": ". Men",
+            "text3": "dasturchiman, mening xobbim —",
+            "job": "Frontend",
+            "hobby": "onlayn o‘yinlar o‘ynash",
+            "text": "Ilovamizga xush kelibsiz! Bu yerda siz samarali ishlash va qulay dam olish uchun zarur bo‘lgan barcha imkoniyatlarni topasiz. Bizning asosiy maqsadimiz – hayotingizni soddalashtiruvchi va osonlashtiruvchi texnologik echimlarni yaratishdir. Har bir bo‘lim foydalanuvchi ehtiyojlariga moslab ishlab chiqilgan bo‘lib, sizga qulay interfeys va intuitiv boshqaruvni taqdim etadi. Jamoamiz mahsulotni doimiy yangilab boradi, shuning uchun siz eng so‘nggi funksiyalardan foydalana olasiz. Agar qandaydir muammo yuzaga kelsa, texnik yordam xizmati sizga har doim yordam berishga tayyor. Ilovamizni doimiy ravishda yangilab boring va barcha yangi imkoniyatlardan foydalaning. Biz bilan birga bo‘lganingiz uchun tashakkur!"
+        },
+        "contact": {
+            "title": "Aloqa",
+            "network": "Mening ijtimoiy tarmoqlardagi profillarim",
+            "add": { "title": "Qo‘shimcha", "email": "Elektron pochta", "tell": "Telefon raqamim" }
+        }
+    },
+    "projectxt": "Loyihalar",
+    "project1": {
+        "title": "Yo'lovchilar tanlash",
+        "text1": "Kattalar",
+        "text2": "Bolalar",
+        "text3": "Chaqaloqlar",
+        "text4": "Yo'lovchilarning umumiy soni",
+        "btn": "Umumiy"
+    },
+    "project2": {
+        "title": "Mahsulot filtri",
+        "text1": "Kategoriyalar",
+        "text2": "Narxi",
+        "text3": "Mahsulot nomini kiriting",
+        "all": "Hammasi",
+        "notebook": "Noutbuklar",
+        "pc": "Kompyuter",
+        "smartphone": "Smartfonlar",
+        "airpods": "Naushniklar",
+        "keyboard": "Klaviaturalar",
+        "btn": "Saqlash",
+        "to": "gacha",
+        "from": "dan"
+    },
+    "project3": {
+        "title": "Modal oyna"
+    },
+    "project4": {
+        "title": "Taymer",
+        "start": "boshlang",
+        "stop": "to'xtatish",
+        "reset": "o'chirish"
+    },
+    "project5": {
+        "title": "Jamiyat"
+    },
+    "project6": {
+        "title": "Eslatmalar yaratish",
+        "text1": "Rejalashtirilgan",
+        "text2": "В процессе",
+        "text3": "Tashlab ketilgan",
+        "text4": "Qilyapman",
+        "text5": "Ish yaratish",
+        "inptxt": "Ish nomi",
+        "textarea": "tavsifi",
+        "btn": "tozalash"
+    },
+    "project7": {
+        "title": "Tic Tac Toe",
+        "btn": "Qayta ishga tushirish",
+        "text1": "Durang",
+        "text2": "G'olib"
+    },
+    "project8": {
+        "title": "Animatsiya",
+        "btn": "Bosing"
+    },
+    "project9": {
+        "title": "Rasmlarni yuklash",
+        "btn1": "Tozalash",
+        "btn2": "Kesmoq",
+        "btn3": "Kesish",
+        "btn4": "Yuklash",
+        "btn5": "Bekor qilish",
+        "text1": "Ism",
+        "text2": "Kengligi",
+        "text3": "Balandligi",
+        "text4": "Hajmi"
+    },
+    "project10": {
+        "title": "Qisqa videolar",
+        "btn": "Ko'rishni boshlansh"
+    }
+}
