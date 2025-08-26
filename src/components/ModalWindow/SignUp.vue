@@ -96,7 +96,7 @@ onMounted(() => {
 <template>
      <div class="w-[400px] p-4 flex flex-col items-center gap-8 min-h-16">
         <h1 class="font-bold text-3xl green">Добро пожаловать</h1>
-        <img src="../assets/logo.svg" class="w-[80px]" alt="">
+        <img src="../../assets/logo.svg" class="w-[80px]" alt="">
         <Message :severity="messageText.severity" :style="message">{{ messageText.text }}</Message>
         <FloatLabel>
             <InputText v-model="inputValue.login" id="username" class="!w-[233px] !bg-[#00000000] !outline-none !border-x-0 !border-t-0 !border-b-[1px] !rounded-none !border-gray-800 focus:!border-green-500" />

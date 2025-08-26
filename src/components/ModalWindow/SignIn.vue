@@ -71,7 +71,7 @@ watch(authorization, (newAuthorization, oldAuthorization) => {
 <template>
     <div class="w-[400px] p-4 flex flex-col items-center gap-8 min-h-16">
         <h1 class="font-bold text-3xl green">Добро пожаловать</h1>
-        <img src="../assets/logo.svg" class="w-[80px]" alt="">
+        <img src="../../assets/logo.svg" class="w-[80px]" alt="">
         <Message :severity="messageText.severity" :style="message">{{ messageText.text }}</Message>
         <form @keyup.enter="btnClick" class="flex flex-col items-center gap-8">
             <FloatLabel>
